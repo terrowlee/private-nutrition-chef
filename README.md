@@ -62,7 +62,7 @@ private-nutrition-chef/
 
 ## 安装与使用
 
-1. 将整个 `private-nutrition-chef` 文件夹放入技能的 skills 目录（AutoClaw：`~/.openclaw-autoclaw/skills/`；OpenClaw：`~/.openclaw/skills/` 或配置的 skills 目录）
+1. 将整个 `private-nutrition-chef` 文件夹放入技能的 skills 目录
 2. 自然触发：**"今晚吃什么"、"推荐几个菜"、"帮我做饭"、"这道菜怎么做"**
 3. 首次使用会进入 onboarding 画像采集，此后自动加载
 
